@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\models\\feadbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\models\\feadbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|c:\\users\\coding school\\desktop\\new folder\\mvc-tasks-one\\mvc-tasks-one\\migrations\\20240714094852_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9153A10A-CFD8-43C1-BF3E-30139DD88154}|MVC-tasks-one\\MVC-tasks-one.csproj|solutionrelative:mvc-tasks-one\\migrations\\20240714094852_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240714094852_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Migrations\\20240714094852_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Migrations\\20240714094852_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Migrations\\20240714094852_InitialCreate.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Migrations\\20240714094852_InitialCreate.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:48:52.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\appsettings.json",
+              "RelativeToolTip": "MVC-tasks-one\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T09:46:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:28:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Feedbacks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Feedbacks\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:28:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Feedbacks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Feedbacks\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:27:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feadbacks.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Feadbacks.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Models\\Feadbacks.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Feadbacks.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Models\\Feadbacks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:24:44.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Manager.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:18:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:30:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Department.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Models\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:03:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Employees.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Models\\Employees.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:02:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:29:44.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:29:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Views\\Tasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "MVC-tasks-one\\Views\\Tasks\\Details.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAArwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:30:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:26:39.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Models\\Tasks.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:23:21.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Controllers\\ManagersController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Controllers\\ManagersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:21:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:20:39.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "MVC-tasks-one\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Coding School\\Desktop\\New folder\\MVC-tasks-one\\MVC-tasks-one\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "MVC-tasks-one\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:20:01.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
